@@ -190,6 +190,11 @@ ul.timeline li::before {
   top: -0.5rem;
 }
 
+.highlight-text {
+    color: red;
+    font-weight: bold;
+}
+
 /*ul.timeline::before {
      content: "●";
      font-size: 1em;

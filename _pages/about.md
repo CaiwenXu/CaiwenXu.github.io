@@ -2,16 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Computing@Imperial</a>. Huxley Building, South Kensington Campus.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: True # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey Caiwen (Chinese: 徐偲文) here! I've recently wrapped up my [MRes (Master of Research)](https://www.imperial.ac.uk/computing/prospective-students/pg/mres-artificial-intelligence-and-machine-learning/) in the computing department, Imperial College London, under the guidance of [Prof. Guang Yang](https://www.imperial.ac.uk/people/g.yang).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I spent a wonderful year in London. During this time, I had the good fortune to serve as a [volunteer](https://bmvc2022.org/people/volunteers/) at the BMVC conference in 2022 and built connections with Dr. Hao Tang, a postdoctoral researcher at ETH. Prior to Imperial, I received my B.E. at Northeastern University (China) one year ahead of schedule and subsequently worked as a research assistant there, advised by [Prof. Shouliang Qi](https://www.researchgate.net/profile/Shouliang-Qi).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am interested in computer vision and AI for healthcare. My current work is primarily in medical image analysis and lung diseases.
+
+<span class="highlight-text">I am actively seeking opportunities to pursue a PhD.</span> If you are aware of any opportunities or have an opening in your lab, please feel free to reach out. I am eager to contribute novel insights to computing and create impactful solutions for real-world healthcare challenges.
