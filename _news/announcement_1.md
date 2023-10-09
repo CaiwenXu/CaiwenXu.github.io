@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Met with Xiaodan and Prof. Guang Yang to wrap up my MRes work for journal submission.
+Met with my senior Ph.D. colleague, Xiaodan, and Prof. Guang Yang to wrap up my MRes work for journal submission.
