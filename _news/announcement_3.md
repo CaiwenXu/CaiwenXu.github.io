@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My Viva defense, evaluated by Prof. Guang Yang and Dr. Chen Qin. sparkles: :smile:
+My MRes viva defense, evaluated by Prof. Guang Yang and Dr. Chen Qin. sparkles: :smile:
