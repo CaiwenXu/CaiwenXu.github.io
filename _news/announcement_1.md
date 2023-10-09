@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🚀 Exciting progress! Collaborating with Xiaodan and Prof. Guang Yang to get my MRes work ready for journal submission!
+🚀 Exciting progress! Started to Collaborate with Xiaodan and Prof. Guang Yang to get my MRes work ready for journal submission!
