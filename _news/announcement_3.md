@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My MRes viva defense, evaluated by Prof. Guang Yang and Dr. Chen Qin. sparkles: :smile:
+My heartfelt gratitude to my assessors, Prof. Guang Yang and Dr. Chen Qin, for their valuable feedback during my MRes viva defense. 🙏❤️🌟🎓
