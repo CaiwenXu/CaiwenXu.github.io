@@ -1,14 +1,12 @@
-github_users:
-  - CaiwenXu
-
-github_repos:
-  - CaiwenXu.github.io
-  - My-Tutorial-for-visualization-segmented-airway
-  - Bugs-and-solution-regarding-python-programming
-  - Caiwen-Xu
-  - nnUNet-for-airway-segmentation
-  - AI-ethics-coursework-1 
-  - Modified-code-for-classification
+- github_users: CaiwenXu
+- github_repos:
+    - CaiwenXu/CaiwenXu.github.io
+    - CaiwenXu/My-Tutorial-for-visualization-segmented-airway
+    - CaiwenXu/Bugs-and-solution-regarding-python-programming
+    - CaiwenXu/Caiwen-Xu
+    - CaiwenXu/nnUNet-for-airway-segmentation
+    - CaiwenXu/AI-ethics-coursework-1 
+    - CaiwenXu/Modified-code-for-classification
 
 
 
