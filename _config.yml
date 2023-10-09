@@ -273,7 +273,7 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 scholar:
 
   last_name: [Xu]
-  first_name: [Caiwen]
+  first_name: [C]
 
   style: ieee
   locale: en
