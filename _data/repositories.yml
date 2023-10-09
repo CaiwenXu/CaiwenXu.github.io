@@ -1,12 +1,21 @@
-- github_users: CaiwenXu
-- github_repos:
-    - CaiwenXu/CaiwenXu.github.io
-    - CaiwenXu/My-Tutorial-for-visualization-segmented-airway
-    - CaiwenXu/Bugs-and-solution-regarding-python-programming
-    - CaiwenXu/Caiwen-Xu
-    - CaiwenXu/nnUNet-for-airway-segmentation
-    - CaiwenXu/AI-ethics-coursework-1 
-    - CaiwenXu/Modified-code-for-classification
+github_users:
+  - CaiwenXu
+
+github_repos:
+  - alshedivat/al-folio
+  - twbs/bootstrap
+  - jekyll/jekyll
+  - jquery/jquery
+  - FortAwesome/Font-Awesome
+  - jpswalsh/academicons
+  - mathjax/MathJax
+  - CaiwenXu/CaiwenXu.github.io
+  - CaiwenXu/My-Tutorial-for-visualization-segmented-airway
+  - CaiwenXu/Bugs-and-solution-regarding-python-programming
+  - CaiwenXu/Caiwen-Xu
+  - CaiwenXu/nnUNet-for-airway-segmentation
+  - CaiwenXu/AI-ethics-coursework-1 
+  - CaiwenXu/Modified-code-for-classification
 
 
 
