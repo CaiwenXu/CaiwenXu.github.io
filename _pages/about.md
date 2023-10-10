@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hey Caiwen (Chinese: 徐偲文) here! I've recently wrapped up my [MRes (Master of Research)](https://www.imperial.ac.uk/computing/prospective-students/pg/mres-artificial-intelligence-and-machine-learning/) in the computing department, Imperial College London, under the guidance of [Prof. Guang Yang](https://www.imperial.ac.uk/people/g.yang).
 
-I spent a wonderful year in London. During this time, I had the good fortune to serve as a [volunteer](https://bmvc2022.org/people/volunteers/) at the BMVC conference in 2022 and built connections with Dr. Hao Tang, a postdoctoral researcher at ETH. Prior to Imperial, I received my B.E. at Northeastern University (China) one year ahead of schedule and subsequently worked as a research assistant there, advised by [Prof. Shouliang Qi](https://www.researchgate.net/profile/Shouliang-Qi).
+I spent a wonderful year in London. During this time, I had the good fortune to serve as a [volunteer](https://bmvc2022.org/people/volunteers/) at the BMVC conference in 2022. Prior to Imperial, I received my B.E. at Northeastern University (China) one year ahead of schedule and subsequently worked as a research assistant there, advised by [Prof. Shouliang Qi](https://www.researchgate.net/profile/Shouliang-Qi).
 
 I am interested in computer vision and AI for healthcare. My current work is primarily in medical image analysis and lung diseases.
 
