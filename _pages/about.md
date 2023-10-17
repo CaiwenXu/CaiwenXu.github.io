@@ -21,7 +21,6 @@ Hey Caiwen (Chinese: 偲文) here! I've recently wrapped up my [MRes (Master of 
 During my wonderful year in London, I had the good fortune of serving as a [volunteer](https://bmvc2022.org/people/volunteers/) at BMVC'22 and meeting researchers from different countries. Prior to Imperial, I received my B.E. at Northeastern University (China) one year ahead of schedule and subsequently worked as a research assistant there, advised by [Prof. Shouliang Qi](https://www.researchgate.net/profile/Shouliang-Qi).
 
 &nbsp;
-&nbsp;
 
 I am interested in computer vision and AI for healthcare. My current work is primarily in medical image analysis and lung diseases. Outside research, I enjoy painting, swimming, and taking walks with my friends.
 
