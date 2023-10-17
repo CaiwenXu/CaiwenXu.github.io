@@ -6,7 +6,7 @@ subtitle: <a href='#'>Computing@Imperial</a>. Huxley Building, South Kensington 
 
 profile:
   align: up
-  image: prof_pic.jpg
+  image: prof_pic4.jpg
   image_circular: False # crops the image to make it circular
   more_info: >
 
