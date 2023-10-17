@@ -15,7 +15,7 @@ horizontal: false
     * Ongoing
 
 
-    Current challenges demand paired image and mask generation due to the scarcity of large, labelled datasets required for training AI models for accurate diagnosis, prognosis, and treatment planning. I hypothesize that a latent representation that can be reconstructed to an image in the pixel space can also be projected back into the corresponding semantic map of that image, which makes it possible to generate paired images and masks at the same time. This project is a part of my master thesis at Imperial.
+    Paired image and mask generation is a challenging task. I hypothesize that a latent representation that can be reconstructed to an image in the pixel space can also be projected back into the corresponding semantic map of that image, which makes it possible to generate paired images and masks at the same time. This project is a part of my master thesis at Imperial.
 
 **Past Projects**
 
