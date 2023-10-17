@@ -39,7 +39,7 @@ horizontal: false
 
 * **MIL for Lung CT COPD Identification**, *2020*
     * Key Laboratory of Intelligent Computing in Medical Image, Northeastern University
-    * [*Phys Med Biol*](https://pubmed.ncbi.nlm.nih.gov/32235077/)
+    * *[Phys Med Biol](https://pubmed.ncbi.nlm.nih.gov/32235077/)*
 
 
     I built and compared the performance of three machine learning models in the classification task. After dimension reduction through principle component analysis (PCA), features are input into three MIL methods: Citation k-Nearest-Neighbor (Citation-KNN), multiple instance support vector machine, and expectation-maximization diverse density.
