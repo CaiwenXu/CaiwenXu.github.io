@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>Computing@Imperial</a>. Huxley Building, South Kensington Campus.
 
 profile:
-  align: left
+  align: up
   image: prof_pic.jpg
   image_circular: False # crops the image to make it circular
   more_info: >
