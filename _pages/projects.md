@@ -21,7 +21,7 @@ horizontal: false
 
 * **A FSMIL Model for PET/CT Lymphoma Analysis**, *Sep. 2021 - Jun. 2022*
     *  Key Laboratory of Intelligent Computing in Medical Image, Northeastern University
-    *  [*CMPB*]()
+    *  *[CMPB]()*
 
 
     The application of deep learning models in lymphoma subtype prediction is limited due to the difficulty in collecting large patient cohorts for each subtype and expert annotations, given the lower incidence of NHL compared to other cancers and the limited availability of advanced imaging technologies such as PET/CT. Radiomics is a popular methodology for lymphoma analysis characterized by its standardized workflow. However, its effectiveness heavily relies on the accuracy of manual ROI selection, a labour-intensive process with reproducibility issues. This issue arises from the wide distribution of non-Hodgkin lymph nodes across multiple human body parts and the intratumoral heterogeneity between involved sites. The practical impossibility of performing a biopsy on each lymph node and the subjective judgment involved in ROI acquisition often lead to inconsistencies and the inclusion of regions with irrelevant or misleading labels in the set of ROIs, which can undermine the model's accuracy and reliability. This issue is more pronounced in studies with smaller sample sizes.
@@ -30,7 +30,7 @@ horizontal: false
 
 * **MIL for Lung CT COVID-19 Indentification**, *Sep 2020 - Aug 2021*
     *  Key Laboratory of Intelligent Computing in Medical Image, Northeastern University
-    *  [*CMPB*](https://www.sciencedirect.com/science/article/pii/S0169260721004806)
+    *  *[CMPB](https://www.sciencedirect.com/science/article/pii/S0169260721004806)*
 
 
     Given the global spread of the novel coronavirus disease 2019 (COVID-19), there is an urgent need for a method to accurately differentiate COVID-19 from community-acquired pneumonia (CAP). The challenge lies in the spatial uncertainty and morphological diversity of COVID-19 lesions in the lungs, coupled with their subtle differences from CAP, making differential diagnosis challenging.
